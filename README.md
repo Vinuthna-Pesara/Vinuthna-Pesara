@@ -4,9 +4,9 @@
 ---
 
 ### **Profile**
-Final-year CSE undergraduate at NIT Andhra Pradesh
-Interested in Deep Learning, Machine Learning, and Web Development
-Passionate about turning real-world problems into simple and effective solutions
+Final-year CSE undergraduate at NIT Andhra Pradesh.
+Interested in Deep Learning, Machine Learning, and Web Development.
+Passionate about turning real-world problems into simple and effective solutions.
 
 ---
 
