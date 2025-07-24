@@ -62,7 +62,7 @@ Passionate about turning real-world problems into simple and effective solutions
 ### **LeetCode Stats**
 <p align="center">
   <a href="https://leetcode.com/pslv2731/">
-    <img src="https://leetcard.jacoblin.cool/pslv2731?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" height="165"/>
+    <img src="https://leetcard.jacoblin.cool/pslv2731?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" height="200"/>
   </a>
 </p>
 
