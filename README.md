@@ -4,9 +4,31 @@
 ---
 
 ### **Profile**
-Final-year CSE undergraduate at NIT Andhra Pradesh.
-Interested in Deep Learning, Machine Learning, and Web Development.
+Final-year undergraduate at NIT Andhra Pradesh, specializing in Computer Science and Engineering.<br>
+Interested in Deep Learning, Machine Learning, and Web Development.<br>
 Passionate about turning real-world problems into simple and effective solutions.
+
+---
+
+### **LeetCode Stats**
+<p align="center">
+  <a href="https://leetcode.com/pslv2731/">
+    <img src="https://leetcard.jacoblin.cool/pslv2731?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" height="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/pslv2731/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+---
+
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinuthna-Pesara&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+</p>
 
 ---
 
@@ -56,28 +78,6 @@ Passionate about turning real-world problems into simple and effective solutions
 - Data Structures & Algorithms  
 - Computer Vision & Natural Language Processing
 - API Development & Integration 
-
----
-
-### **LeetCode Stats**
-<p align="center">
-  <a href="https://leetcode.com/pslv2731/">
-    <img src="https://leetcard.jacoblin.cool/pslv2731?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" height="200"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/pslv2731/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
-
----
-
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinuthna-Pesara&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-</p>
 
 ---
 
