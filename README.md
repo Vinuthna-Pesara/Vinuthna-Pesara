@@ -86,7 +86,7 @@ Passionate about turning real-world problems into simple and effective solutions
   <a href="https://github.com/Vinuthna-Pesara">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/pesara-vinuthna-b66744356">
+  <a href="https://www.linkedin.com/in/pesara-sri-lakshmi-vinuthna-106976290">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="mailto:pslv2731@gmail.com">
